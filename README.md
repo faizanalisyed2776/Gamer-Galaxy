@@ -22,14 +22,10 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## ScreenShots
  
-  --------||||FOOTER||||--------
+  --------||||HERO||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
-  --------||||FOOTER||||--------
-  ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
-  --------||||FOOTER||||--------
-  ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
- --------||||FOOTER||||--------
-  ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+ --------||||JOIN||||--------
+  ![Image Alt](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/cc97217428342f16b640cf33b290a863ceaba883/Screenshot%202025-07-24%20113441.png)
   --------||||TRENDING GAMER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/3851dbdaec377b228079dab5442a8c7f73a8b933/Screenshot%202025-07-24%20113540.png)
   --------||||GANRE||||--------
