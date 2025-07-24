@@ -20,16 +20,24 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## ScreenShots
  
+  --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+ --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
-  ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  --------||||FOOTER||||--------
+  ![Image Alt](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/1ebc8f3c92b3525186667620cf2f672d97eae749/Screenshot%202025-07-24%20113632.png)
 
 To learn more about Next.js, take a look at the following resources:
 
