@@ -34,8 +34,10 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
   --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
-  --------||||FOOTER||||--------
-  ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  
+  --------||||BUNDLES||||--------
+  ![Image Alt]([https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/5874efaa3a77bca523746cd140edbdf107545421/Screenshot%202025-07-24%20113613.png))
+  
   --------||||FOOTER||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/1ebc8f3c92b3525186667620cf2f672d97eae749/Screenshot%202025-07-24%20113632.png)
 
