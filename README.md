@@ -23,7 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## ScreenShots
  
   --------||||HERO||||--------
-  ![Image Alt](https://github.com/faizanalisyed2776/GameHub-ongoing/blob/d3d49190d3568820ff20a0c81914efccea6584a9/HomePage.jpg)
+  ![Image Alt](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/20df301e921e83f5b1f7e8d47f0da601864ecc00/Screenshot%202025-07-24%20113428.png)
  --------||||JOIN||||--------
   ![Image Alt](https://github.com/faizanalisyed2776/Gamer-Galaxy/blob/cc97217428342f16b640cf33b290a863ceaba883/Screenshot%202025-07-24%20113441.png)
   --------||||TRENDING GAMER||||--------
