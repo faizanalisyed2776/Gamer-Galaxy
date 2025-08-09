@@ -1,4 +1,3 @@
-
 Gamer Galaxy
 Gamer Galaxy is a modern, responsive web platform built with Next.js, React, and TypeScript. Designed for gaming enthusiasts, the platform features a visually rich interface, delivering an immersive browsing experience across all devices. Tailwind CSS powers the sleek and dynamic styling, ensuring both aesthetics and performance.
 
